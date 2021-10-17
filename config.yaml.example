@@ -1,0 +1,4 @@
+revenue_host: revenue_host, ex -> https://revenue_host.com
+posts_analysis_host: posts_analysis_host, ex -> https://posts_analysis_host.com
+fb_acc: your_account
+fb_pwd: your_password
