@@ -135,3 +135,6 @@ report.html
 
 # Chrome Cookie
 cookie
+
+# Tests
+test.py
